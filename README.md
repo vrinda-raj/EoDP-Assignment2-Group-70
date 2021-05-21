@@ -1,5 +1,5 @@
 # EoDP-working-files
-This is a repository to add working files for Group 70's assignment 
+This is a repository to add all the files for Group 70's assignment 
 
 #List of all folders in our repository: 
 1. Data - a folder that contains all the data files that were used in this project. 
